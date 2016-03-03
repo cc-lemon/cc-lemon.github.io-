@@ -129,13 +129,23 @@ page-header p {
 
 } 
 .swiftprojects p {
-    padding-bottom: 60px;
+    padding-bottom: 40px;
     font-size: 1.2em; /* 14px/16=0.875em */
     font-style: italic;
     margin-bottom: 0px;
+    margin-top: 0px;
     text-align: center;
+}
+.swiftarticles p {
+    padding-bottom: 0px;
+  
+}
+.swiftarticles  {
+    
+    margin-bottom: 20px;
+}
 
-} 
+
 .swiftprojects h2 {
     font-size: 2.4em;/* 30px/16=1.875em */
      text-align: center;
@@ -160,6 +170,11 @@ page-header p {
 }
 .medium  {
     margin-top: 20px;
+}
+
+.swiftarticles {
+    padding-bottom: 0px;
+    
 }
     
 .profilepic p {
