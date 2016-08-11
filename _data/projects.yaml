@@ -1,15 +1,15 @@
 - title: App projects in swift
-  url: {{ site.url }}/ios-swift/
+  url: http://cc-lemon.github.io/ios-swift/
   image: images/iphone-hand.jpeg
   completed: true
 
 - title: Wearables with Arduino
-  url: {{ site.url }}/arduino-project/
+  url: http://cc-lemon.github.io/arduino-project/
   image: images/arduino-patch.jpg
   completed: true
 
 - title: Redesign of ios control centre
-  url: {{ site.url }}/redesign-controlcentre/
+  url: http://cc-lemon.github.io/redesign-controlcentre/
   image: images/control_centre.gif
   completed: true
 
