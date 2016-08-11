@@ -4,12 +4,12 @@
   completed: true
 
 - title: Wearables with Arduino
-  url: http://localhost:4000/arduino-project/
+  url: {{ site.url }}/arduino-project/
   image: images/arduino-patch.jpg
   completed: true
 
 - title: Redesign of ios control centre
-  url: http://localhost:4000/redesign-controlcentre/
+  url: {{ site.url }}/redesign-controlcentre/
   image: images/control_centre.gif
   completed: true
 
