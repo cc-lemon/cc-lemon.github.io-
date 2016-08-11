@@ -1,5 +1,5 @@
 - title: App projects in swift
-  url: http://localhost:4000/ios-swift/
+  url: {{ site.url }}/ios-swift/
   image: images/iphone-hand.jpeg
   completed: true
 
