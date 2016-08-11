@@ -1,0 +1,26 @@
+- title: App projects in swift
+  url: http://localhost:4000/ios-swift/
+  image: images/iphone-hand.jpeg
+  completed: true
+
+- title: Wearables with Arduino
+  url: http://localhost:4000/arduino-project/
+  image: images/arduino-patch.jpg
+  completed: true
+
+- title: Redesign of ios control centre
+  url: http://localhost:4000/redesign-controlcentre/
+  image: images/control_centre.gif
+  completed: true
+
+- title: A guide to Stockholm
+  url: http://los.com
+  image: images/guideofstockholm.png
+  completed: false
+
+- title: Wordpress site for client
+  url: http://www.organ.su.se/jsm/
+  image: images/jsm.png
+  completed: true
+
+
