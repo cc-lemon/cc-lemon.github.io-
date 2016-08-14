@@ -708,6 +708,12 @@ canvas {
   }
 }
 
+@media screen and (max-width: 350px) {
+    .projects-link {
+    right: 11px;
+    }
+}
+
 @media screen and (max-width: 960px) {
   .block-left,
   .block-right {
