@@ -13,7 +13,6 @@
   image: images/flowers.png
   completed: true
 
-
 - title: Redesign of ios control centre
   url: http://cc-lemon.github.io/redesign-controlcentre/
   image: images/control_centre.gif
