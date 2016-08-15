@@ -7,12 +7,19 @@
   url: http://cc-lemon.github.io/arduino-project/
   image: images/arduino-patch.jpg
   completed: true
+  
+ - title: P & G prestige 48h project
+  url: http://cc-lemon.github.io/p&g-prestige/
+  image: images/flowers.png
+  completed: true
+
 
 - title: Redesign of ios control centre
   url: http://cc-lemon.github.io/redesign-controlcentre/
   image: images/control_centre.gif
   completed: true
-
+  
+ 
 - title: A guide to Stockholm
   url: http://los.com
   image: images/guideofstockholm.png
