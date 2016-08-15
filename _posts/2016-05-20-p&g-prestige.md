@@ -3,8 +3,6 @@ layout: post
 title:  "P & G prestige 48h project"
 image: images/flowers.png
 tag:
-
-
 ---
 ## Perfume as a gift
 
