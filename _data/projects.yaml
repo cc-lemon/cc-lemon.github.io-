@@ -8,7 +8,7 @@
   image: images/arduino-patch.jpg
   completed: true
   
- - title: P & G prestige 48h project
+- title: P & G prestige 48h project
   url: http://cc-lemon.github.io/p&g-prestige/
   image: images/flowers.png
   completed: true
@@ -18,7 +18,6 @@
   image: images/control_centre.gif
   completed: true
   
- 
 - title: A guide to Stockholm
   url: http://los.com
   image: images/guideofstockholm.png
