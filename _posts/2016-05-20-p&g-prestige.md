@@ -4,7 +4,7 @@ title:  "P & G prestige 48h project"
 image: images/flowers.png
 tag:
 ---
-## Perfume as a gift
+## Gifting perfume online
 
 Buying perfume as a gift could be difficult, during 48 hours we explored and created a concept around how to lower the threshold of doing that. 
 
