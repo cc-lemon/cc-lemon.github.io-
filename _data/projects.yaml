@@ -22,10 +22,15 @@
   url: http://los.com
   image: images/guideofstockholm.png
   completed: false
+  
+- title: Volunteer work
+  url: http://cc-lemon.github.io/volunteer-work
+  image: images/nattskiftet.jpg
+  completed: true
 
 - title: Wordpress site for client
   url: http://www.organ.su.se/jsm/
   image: images/jsm.png
-  completed: true
+  completed: false
 
 
