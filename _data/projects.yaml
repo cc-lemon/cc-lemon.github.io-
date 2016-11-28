@@ -7,7 +7,7 @@
   url: http://cc-lemon.github.io/arduino-project/
   image: images/arduino-patch.jpg
   completed: true
-  
+
 - title: P & G prestige 48h project
   url: http://cc-lemon.github.io/p&g-prestige/
   image: images/flowers.png
@@ -17,12 +17,12 @@
   url: http://cc-lemon.github.io/redesign-controlcentre/
   image: images/control_centre.gif
   completed: true
-  
-- title: A guide to Stockholm
-  url: http://los.com
-  image: images/guideofstockholm.png
-  completed: false
-  
+
+- title: Client website in Ghost
+  url: http://cc-lemon.github.io/lifeofstockholm/
+  image: images/lifeOfsthlm01.png
+  completed: true
+
 - title: Volunteer work
   url: http://cc-lemon.github.io/volunteer-work
   image: images/nattskiftet.jpg
@@ -32,5 +32,3 @@
   url: http://www.organ.su.se/jsm/
   image: images/jsm.png
   completed: false
-
-
