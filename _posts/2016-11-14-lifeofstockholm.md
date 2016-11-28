@@ -18,4 +18,4 @@ My part was implementing the design supplied to me, using CSS, Bootstrap and Han
 
 Biggest learning? Having never actually worked with Ghost beforehand we wrote a contract and signed it not knowing that some things easily done in more mature CMS’s was not as easily implemented in Ghost, which required a couple of solutions that we didn’t think we needed when drafting the contract, the use of Google Custom Search being one of them. So the learning is, know your the framework really good or be good at problem solving, or both!
 
-<a href="https:http://www.lifeofstockholm.com/" target="_blank">Visit the Life Of Stockholm blog</a>
+<a href="http://www.lifeofstockholm.com/" target="_blank">Visit the Life Of Stockholm blog</a>
