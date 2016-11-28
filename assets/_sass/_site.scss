@@ -564,8 +564,8 @@ canvas {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: #399f62;
-    border-bottom: 1px dotted #240CF4;
+    color: #240CF4;
+    border-bottom: 0px dotted #240CF4;
   }
   ul,
   ol {
@@ -626,7 +626,7 @@ canvas {
     a {
       color: #240CF4;
       &:hover {
-        color: #4dbe7a;
+        color: #D3D3D3;
       }
     }
     em {
