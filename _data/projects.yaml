@@ -1,3 +1,8 @@
+- title: Client website in Ghost
+  url: http://cc-lemon.github.io/lifeofstockholm/
+  image: images/lifeOfsthlm01.png
+  completed: true
+  
 - title: App projects in swift
   url: http://cc-lemon.github.io/ios-swift/
   image: images/iphone-hand.jpg
@@ -16,11 +21,6 @@
 - title: Redesign of ios control centre
   url: http://cc-lemon.github.io/redesign-controlcentre/
   image: images/control_centre.gif
-  completed: true
-
-- title: Client website in Ghost
-  url: http://cc-lemon.github.io/lifeofstockholm/
-  image: images/lifeOfsthlm01.png
   completed: true
 
 - title: Volunteer work
