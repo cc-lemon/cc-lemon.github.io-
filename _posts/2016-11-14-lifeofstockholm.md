@@ -6,7 +6,7 @@ image: images/ghostSidepic.png
 tag:
 
 ---
-##Developing and designing a guide to Stockholm
+## Developing and designing a guide to Stockholm
 
 ![patch](/images/lifeOfsthlm02.png){:class="img-responsive"}
 
