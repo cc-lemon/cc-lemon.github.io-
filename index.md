@@ -7,7 +7,7 @@ layout: home
 
 ### Front end developer with a UX and team focus
 
-I'm currently doing my internship as a Front end developer [vue.js, bootstrap, css3, jQuery, prototyping, user testing, workshop facilitation and more] and also looking for a job. Don't hesitate to send me a mail!
+I'm currently doing my internship as a Front end developer [vue.js, bootstrap, css3, prototyping, user testing, workshop facilitation and more] and also looking for a job. Don't hesitate to send me a mail!
 
 What I'm always looking for is solutions, whether it’s a solution to a coding problem, how to get the team motivated again. I do concept development, front end web development, prototyping and user testing. But most of all I’m interested in being part of a great team and have fun.
 
@@ -19,7 +19,7 @@ I think the best environment for ideas and challenges isn’t one where you are 
 
 Hyper Island, Mobile creative, 2015-2016
 
-KTH (Technical university), Studies in media technology, Bachelor in HCI, 2008-2012
+KTH (Technical university), Studies in media technology, Bachelor in HCI, 2008-2012 (not graduated)
 
 ### Resume
 
