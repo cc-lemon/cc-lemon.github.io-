@@ -7,7 +7,7 @@ layout: home
 
 ### Front end developer with a UX and team focus
 
-I'm currently doing my internship as a Front end developer [vue.js, bootstrap, css3, prototyping, user testing, workshop facilitation and more] and also looking for a job. Don't hesitate to send me a mail!
+I'm a junior Front end developer who just finished my internship were I worked with: vue.js, bootstrap, css3, prototyping, user testing, workshop facilitation and more, currently looking for a job. Don't hesitate to send me an e-mail!
 
 What I'm always looking for is solutions, whether it’s a solution to a coding problem, how to get the team motivated again. I do concept development, front end web development, prototyping and user testing. But most of all I’m interested in being part of a great team and have fun.
 
