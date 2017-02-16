@@ -6,7 +6,7 @@ image: images/stupid_hack01.png
 tag:
 
 ---
-## Do something stupid just for fun
+## Something stupid just for fun
 
 One cannot always use one's skills and imagination to better the world, sometimes stupid ideas are the smartest ones, maybe that was not the case of the team I participated in but in some other teams I saw great ideas.
 
@@ -15,5 +15,6 @@ What we created was a “web-service” called  that is always listening in on w
 Maybe not the most useful service but a fun way to hang-out with other developers and trying out the Web Speech API and Wikipedia’s API. The project is online                           <a href="https://stupidhackathon.herokuapp.com" target="_blank">HERE!</a> CLUE: Try saying: hej, programmera, Stockholm or something totally different!
 
 ### <a href="https://www.stupidhackathon.se/" target="_blank"> Read more about the event!</a>
+
 
 <a href="https://github.com/Hatlen/stupidhackaton " target="_blank">GitHub repo</a>
