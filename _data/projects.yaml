@@ -2,7 +2,7 @@
   url: http://cc-lemon.github.io/lifeofstockholm/
   image: images/lifeOfsthlm01.png
   completed: true
-  
+
 - title: App projects in swift
   url: http://cc-lemon.github.io/ios-swift/
   image: images/iphone-hand.jpg
@@ -12,6 +12,11 @@
   url: http://cc-lemon.github.io/arduino-project/
   image: images/arduino-patch.jpg
   completed: true
+
+  - title: Stupid Hackathon Stockholm
+    url: http://cc-lemon.github.io/stupid-hackathon/
+    image: images/stupid_hack01.png
+    completed: true
 
 - title: P & G prestige 48h project
   url: http://cc-lemon.github.io/p&g-prestige/
