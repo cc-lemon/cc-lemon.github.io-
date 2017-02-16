@@ -2,7 +2,7 @@
 layout: post
 title:  "Stupid Hackathon Sweden"
 excerpt: ""
-image:
+image: images/stupid_hack02.png
 tag:
 
 ---
@@ -12,6 +12,8 @@ One cannot always use one's skills and imagination to better the world, sometime
 
 What we created was a “web-service” called  that is always listening in on what you are saying and for a finite amount of keywords gives you an advise or looks up a wikipedia post and reads it to you, whether you want it or not.
 
-Maybe not the most useful service but a fun way to hang-out with other developers and trying out the Web Speech API and Wikipedia’s API. The project is online at                           <a href="https://stupidhackathon.herokuapp.com" target="_blank">Online app</a> CLUE: Try saying: hej, programmera, Stockholm and <a href="https://github.com/Hatlen/stupidhackaton " target="_blank">GitHub repo</a>
+Maybe not the most useful service but a fun way to hang-out with other developers and trying out the Web Speech API and Wikipedia’s API. The project is online on                           <a href="https://stupidhackathon.herokuapp.com" target="_blank">Heroku</a> CLUE: Try saying: hej, programmera, Stockholm or something totally different!
 
-<a href="https://www.stupidhackathon.se/" target="_blank">Read more about the event!</a>
+ <a href="https://github.com/Hatlen/stupidhackaton " target="_blank">GitHub repo</a>
+
+<a href="https://www.stupidhackathon.se/" target="_blank"> <h3>Read more about the event!</h3></a>
