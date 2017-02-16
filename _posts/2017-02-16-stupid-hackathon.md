@@ -8,7 +8,7 @@ tag:
 ---
 ## Something stupid just for fun
 
-One cannot always use one's skills and imagination to better the world, sometimes stupid ideas are the smartest ones, maybe that was not the case of the team I participated in but in some other teams I saw great ideas.
+One cannot always use one's skills and imagination to better the world, sometimes stupid ideas are the smartest ones, maybe that was not the case for the team I participated in, but in other teams I saw great stupid ideas.
 
 What we created was a “web-service” called  that is always listening in on what you are saying and for a finite amount of keywords gives you an advise or looks up a wikipedia post and reads it to you, whether you want it or not.
 
