@@ -5,7 +5,7 @@ layout: home
 
 ![patch](/images/profilepic.png){:class="img-responsive"}
 
-### Front end developer with a UX and team focus
+### Creative with a Front-end development, UX and team focus
 
 I'm a creative who just finished my internship within Front-end development were I worked with: vue.js, prototyping, user testing, workshop facilitation, project management and more. Currently looking for work. Don't hesitate to send me an e-mail!
 
