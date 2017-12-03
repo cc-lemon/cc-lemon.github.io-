@@ -7,7 +7,7 @@ layout: home
 
 ### Creative with a Front-end development, UX and team focus
 
-I'm a creative who just finished my internship within Front-end development were I work with: agile coaching, vue.js, prototyping, user testing, workshop facilitation, project management and more.
+I have a passion for creating and developing concepts and ideas together with other people, from idea to going live. I believe in the power of a team to find solutions and question those solutions before going into implementation.
 
 What I'm always looking for is solutions, whether it’s a solution to a coding problem, how to get the team motivated again or how to open a can of beans. I do concept development, front end web development, prototyping and user testing. But most of all I’m interested in being part of a great team and have fun.
 
@@ -23,4 +23,4 @@ KTH (Technical university), Studies in media technology, Bachelor in HCI, 2008-2
 
 ### Resume
 
-[Resume for download]({{ site.url }}/download/Resume_Christian_Croona.pdf)
+[Resume for download]({{ site.url }}/download/Resume_ChristianCroona.pdf)
