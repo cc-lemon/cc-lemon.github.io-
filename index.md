@@ -3,7 +3,7 @@ layout: home
 
 ---
 
-![patch](/images/profilepic.png){:class="img-responsive"}
+![patch](/images/Christian_cropped.jpeg){:class="img-responsive"}
 
 ### Creative with a Front-end development, UX and team focus
 
