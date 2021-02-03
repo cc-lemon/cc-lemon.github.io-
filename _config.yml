@@ -1,7 +1,7 @@
 # Site
 title: Christian Croona
 description: 
-url: http://cc-lemon.github.io/
+url: https://cc-lemon.github.io/
 logo: cc2-icon.png                                      # Site logo
 locale: en_US
 
@@ -34,7 +34,7 @@ email:             christian.croona@hyperisland.se
 twitter:            croonan
 #facebook:           username
 github:             cc-lemon
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "https://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username

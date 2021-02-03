@@ -1,39 +1,39 @@
 - title: Client website in Ghost
-  url: http://cc-lemon.github.io/lifeofstockholm/
+  url: https://cc-lemon.github.io/lifeofstockholm/
   image: images/lifeOfsthlm01.png
   completed: true
 
 - title: App projects in swift
-  url: http://cc-lemon.github.io/ios-swift/
+  url: https://cc-lemon.github.io/ios-swift/
   image: images/iphone-hand.jpg
   completed: true
 
 - title: Wearables with Arduino
-  url: http://cc-lemon.github.io/arduino-project/
+  url: https://cc-lemon.github.io/arduino-project/
   image: images/arduino-patch.jpg
   completed: true
 
 - title: Stupid Hackathon Stockholm
-  url: http://cc-lemon.github.io/stupid-hackathon/
+  url: https://cc-lemon.github.io/stupid-hackathon/
   image: images/stupid_hack02.png
   completed: true
 
 - title: P & G prestige 48h project
-  url: http://cc-lemon.github.io/p&g-prestige/
+  url: https://cc-lemon.github.io/p&g-prestige/
   image: images/flowers.png
   completed: true
 
 - title: Redesign of ios control centre
-  url: http://cc-lemon.github.io/redesign-controlcentre/
+  url: https://cc-lemon.github.io/redesign-controlcentre/
   image: images/control_centre.gif
   completed: true
 
 - title: Volunteer work
-  url: http://cc-lemon.github.io/volunteer-work
+  url: https://cc-lemon.github.io/volunteer-work
   image: images/nattskiftet.jpg
   completed: true
 
 - title: Wordpress site for client
-  url: http://www.organ.su.se/jsm/
+  url: https://www.organ.su.se/jsm/
   image: images/jsm.png
   completed: false

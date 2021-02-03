@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta https-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   {% if page.title %}
   <title>{{ page.title | markdownify | strip_html | strip_newlines | escape_once }} &#8211; {{ site.title }}</title>
@@ -14,7 +14,7 @@
   {% endif %}
   {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
   <!-- Twitter Cards -->
-  {% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
+  {% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'https://' or image contains 'httpss://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="{{ image }}">
   {% else %}<meta name="twitter:card" content="summary">
@@ -47,7 +47,7 @@
   <!-- Left Block Image for Posts -->
   {% if page.image %}
   {% capture image %}{{ page.image }}{% endcapture %}
-  {% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
+  {% unless image contains 'https://' or image contains 'httpss://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <style type="text/css">
     #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ image }}) no-repeat;background-size: cover;}
   </style>

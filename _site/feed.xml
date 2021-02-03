@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-11T19:50:03+02:00</updated><id>/</id><title>Christian Croona</title><entry><title>Wearables with Arduino</title><link href="/arduino-project/" rel="alternate" type="text/html" title="Wearables with Arduino" /><published>2016-08-11T00:00:00+02:00</published><updated>2016-08-11T00:00:00+02:00</updated><id>/arduino-project</id><content type="html" xml:base="/arduino-project/">&lt;h2 id=&quot;how-do-you-implement-hardware-technology-into-clothing&quot;&gt;How do you implement hardware technology into clothing?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="https://www.w3.org/2005/Atom"><generator uri="https://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-08-11T19:50:03+02:00</updated><id>/</id><title>Christian Croona</title><entry><title>Wearables with Arduino</title><link href="/arduino-project/" rel="alternate" type="text/html" title="Wearables with Arduino" /><published>2016-08-11T00:00:00+02:00</published><updated>2016-08-11T00:00:00+02:00</updated><id>/arduino-project</id><content type="html" xml:base="/arduino-project/">&lt;h2 id=&quot;how-do-you-implement-hardware-technology-into-clothing&quot;&gt;How do you implement hardware technology into clothing?&lt;/h2&gt;
 
 &lt;p&gt;Depending on the brand the correct answer can be totally different. If you are Nike, some sort of motion tracker might make sense, for our client however, a non-disclosed clothing brand who focuses on gaming related apparel a motion sensor wouldn’t make much sense?&lt;/p&gt;
 
@@ -13,13 +13,13 @@
 &lt;center&gt;&lt;b&gt;Halve&lt;/b&gt; is a stylish, two-column jekyll theme.&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;This theme is Jekyll port of &lt;a href=&quot;http://vangeltzo.com/&quot;&gt;vangeltzo.com&lt;/a&gt; (by &lt;a href=&quot;https://github.com/srekoble&quot;&gt;Vangelis Tzortzis&lt;/a&gt;). I couldn’t stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.&lt;/p&gt;
+&lt;p&gt;This theme is Jekyll port of &lt;a href=&quot;https://vangeltzo.com/&quot;&gt;vangeltzo.com&lt;/a&gt; (by &lt;a href=&quot;httpss://github.com/srekoble&quot;&gt;Vangelis Tzortzis&lt;/a&gt;). I couldn’t stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.&lt;/p&gt;
 
-&lt;iframe src=&quot;https://ghbtns.com/github-btn.html?user=TaylanTatli&amp;amp;repo=Halve&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;httpss://ghbtns.com/github-btn.html?user=TaylanTatli&amp;amp;repo=Halve&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&quot; frameborder=&quot;0&quot; scrolling=&quot;0&quot; width=&quot;160px&quot; height=&quot;30px&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;installation-and-quick-usage&quot;&gt;Installation and Quick Usage&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/TaylanTatli/Halve/fork&quot;&gt;Halve repo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;httpss://github.com/TaylanTatli/Halve/fork&quot;&gt;Halve repo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
   &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;index.md&lt;/code&gt;.&lt;/li&gt;
   &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yaml&lt;/code&gt;&lt;/li&gt;
@@ -31,7 +31,7 @@
 
 &lt;p&gt;That’s all.&lt;/p&gt;
 
-&lt;p&gt;If you want to make a &lt;strong&gt;Project Page&lt;/strong&gt;, you have to use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch. For &lt;strong&gt;Personal Page&lt;/strong&gt;; &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch. More info &lt;a href=&quot;https://help.github.com/articles/about-github-pages-and-jekyll/#jekylls-build-process&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to make a &lt;strong&gt;Project Page&lt;/strong&gt;, you have to use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt; branch. For &lt;strong&gt;Personal Page&lt;/strong&gt;; &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch. More info &lt;a href=&quot;httpss://help.github.com/articles/about-github-pages-and-jekyll/#jekylls-build-process&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;preview&quot;&gt;Preview&lt;/h2&gt;
 
@@ -57,7 +57,7 @@
     &lt;figcaption&gt;Mobile view of Halve Theme&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;See a &lt;a href=&quot;http://taylantatli.github.io/Halve&quot;&gt;live version of Halve&lt;/a&gt; hosted on GitHub.&lt;/p&gt;
+&lt;p&gt;See a &lt;a href=&quot;https://taylantatli.github.io/Halve&quot;&gt;live version of Halve&lt;/a&gt; hosted on GitHub.&lt;/p&gt;
 
 &lt;h2 id=&quot;site-setup&quot;&gt;Site Setup&lt;/h2&gt;
 &lt;p&gt;A quick checklist of the files you’ll want to edit to get up and running.&lt;/p&gt;
@@ -77,12 +77,12 @@
 
 &lt;h4 id=&quot;url&quot;&gt;url&lt;/h4&gt;
 
-&lt;p&gt;Used to generate absolute urls in &lt;code class=&quot;highlighter-rouge&quot;&gt;sitemap.xml&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;feed.xml&lt;/code&gt;, and for generating canonical URLs in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. When developing locally either comment this out or use something like &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt; so all assets load properly. &lt;em&gt;Don’t include a trailing &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Used to generate absolute urls in &lt;code class=&quot;highlighter-rouge&quot;&gt;sitemap.xml&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;feed.xml&lt;/code&gt;, and for generating canonical URLs in &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. When developing locally either comment this out or use something like &lt;code class=&quot;highlighter-rouge&quot;&gt;https://localhost:4000&lt;/code&gt; so all assets load properly. &lt;em&gt;Don’t include a trailing &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Examples:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Halve&lt;/span&gt;
-&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://localhost:4000&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://taylantatli.me/Halve&lt;/span&gt;
+&lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://localhost:4000&lt;/span&gt;
 &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;//cooldude.github.io&lt;/span&gt;
 &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
@@ -115,35 +115,35 @@
 &lt;p&gt;To set what image links appear in the overlay menu edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yaml&lt;/code&gt;. Use the following format to set the URL, title, image and project status for as many links as you’d like. If you set &lt;code class=&quot;highlighter-rouge&quot;&gt;completed&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt; like &lt;code class=&quot;highlighter-rouge&quot;&gt;completed: false&lt;/code&gt;, it won’t be clickable until you set it true like &lt;code class=&quot;highlighter-rouge&quot;&gt;completed: true&lt;/code&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Moon Jekyll Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Moon&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://taylantatli.me/Moon&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;httpss://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png&lt;/span&gt;
   &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
 
 &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Ramme Jekyll Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Ramme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://taylantatli.me/Ramme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;httpss://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png&lt;/span&gt;
   &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
 
 &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Daisy Pelican Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/Daisy-Pelican-Theme/&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://taylantatli.me/Daisy-Pelican-Theme/&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;httpss://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png&lt;/span&gt;
   &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;true&lt;/span&gt;
 
 &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Block Icon Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://github.com/TaylanTatli/Block-Icon-Theme&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;httpss://github.com/TaylanTatli/Block-Icon-Theme&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;httpss://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png&lt;/span&gt;
   &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;
 
 &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Start Page&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http://taylantatli.me/StartPage/&lt;/span&gt;
-  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://taylantatli.me/StartPage/&lt;/span&gt;
+  &lt;span class=&quot;s&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;httpss://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png&lt;/span&gt;
   &lt;span class=&quot;s&quot;&gt;completed&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;false&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;layouts-and-content&quot;&gt;Layouts and Content&lt;/h2&gt;
 
-&lt;p&gt;Halve Theme use &lt;a href=&quot;https://github.com/penibelst/jekyll-compress-html&quot;&gt;Jekyll Compress&lt;/a&gt; to compress html output. But it can cause errors if you use “linenos” (line numbers). I suggest don’t use line numbers for codes, because it won’t look good with this theme, also i didn’t give a proper style for them. If you insist to use line numbers, just remove &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: compress&lt;/code&gt; string from layouts. It will disable compressing.&lt;/p&gt;
+&lt;p&gt;Halve Theme use &lt;a href=&quot;httpss://github.com/penibelst/jekyll-compress-html&quot;&gt;Jekyll Compress&lt;/a&gt; to compress html output. But it can cause errors if you use “linenos” (line numbers). I suggest don’t use line numbers for codes, because it won’t look good with this theme, also i didn’t give a proper style for them. If you insist to use line numbers, just remove &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: compress&lt;/code&gt; string from layouts. It will disable compressing.&lt;/p&gt;
 
 &lt;h3 id=&quot;images-for-posts&quot;&gt;Images for Posts&lt;/h3&gt;
 
@@ -151,7 +151,7 @@
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;image: /assets/img/some-image.png
 or
-image: http://example.com/some-image.png
+image: https://example.com/some-image.png
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;p&gt;This also will be used for twitter card:&lt;/p&gt;
@@ -162,7 +162,7 @@ image: http://example.com/some-image.png
 
 &lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
 
-&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;https://github.com/TaylanTatli/Halve/issues/new&quot;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
+&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;httpss://github.com/TaylanTatli/Halve/issues/new&quot;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -210,24 +210,24 @@ image: http://example.com/some-image.png
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;</content><category term="sample post" /><category term="readability" /><category term="test" /><summary>A bunch of text to test readability.</summary></entry><entry><title>App projects in swift</title><link href="/ios-swift/" rel="alternate" type="text/html" title="App projects in swift" /><published>2016-05-15T00:00:00+02:00</published><updated>2016-05-15T00:00:00+02:00</updated><id>/ios-swift</id><content type="html" xml:base="/ios-swift/">&lt;h2 id=&quot;map-implementation&quot;&gt;Map implementation&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/images/location.gif&quot; alt=&quot;patch&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@croonan/baby-steps-in-swift-part-4-it-s-all-about-that-location-and-maps-28e5877e1aec#.9ed536fj8&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;httpss://medium.com/@croonan/baby-steps-in-swift-part-4-it-s-all-about-that-location-and-maps-28e5877e1aec#.9ed536fj8&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;record-audio-using-the-phones-built-in-microphone&quot;&gt;Record audio using the phones built in microphone&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/PitchPerfect.gif&quot; alt=&quot;patch&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@croonan/1-recording-audio-and-adding-filters-with-swift-or-how-udacity-rules-94889df5bb89#.gmhuz9oc4&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;httpss://medium.com/@croonan/1-recording-audio-and-adding-filters-with-swift-or-how-udacity-rules-94889df5bb89#.gmhuz9oc4&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;implementing-sliders-to-manipulate-color-values&quot;&gt;Implementing sliders to manipulate color values&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/images/ChangeColor.gif&quot; alt=&quot;patch&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@croonan/baby-steps-in-swift-part-2-changing-color-of-objects-and-backgrounds-9ae5bdfb8d2c#.u6j4as76u&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;httpss://medium.com/@croonan/baby-steps-in-swift-part-2-changing-color-of-objects-and-backgrounds-9ae5bdfb8d2c#.u6j4as76u&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;twitter-style-character-limiter&quot;&gt;Twitter style character limiter&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/characterlimiter.gif&quot; alt=&quot;patch&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@croonan/baby-steps-in-swift-3-limit-text-input-b08c0c694e0b#.khiwn4uyv&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;</content><summary>A beginners journey</summary></entry><entry><title>Redesign of ios control centre</title><link href="/redesign-controlcentre/" rel="alternate" type="text/html" title="Redesign of ios control centre" /><published>2016-04-15T00:00:00+02:00</published><updated>2016-04-15T00:00:00+02:00</updated><id>/redesign-controlcentre</id><content type="html" xml:base="/redesign-controlcentre/">&lt;h2 id=&quot;big-changes-isnt-always-the-best-solution&quot;&gt;Big changes isn’t always the best solution&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;httpss://medium.com/@croonan/baby-steps-in-swift-3-limit-text-input-b08c0c694e0b#.khiwn4uyv&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;</content><summary>A beginners journey</summary></entry><entry><title>Redesign of ios control centre</title><link href="/redesign-controlcentre/" rel="alternate" type="text/html" title="Redesign of ios control centre" /><published>2016-04-15T00:00:00+02:00</published><updated>2016-04-15T00:00:00+02:00</updated><id>/redesign-controlcentre</id><content type="html" xml:base="/redesign-controlcentre/">&lt;h2 id=&quot;big-changes-isnt-always-the-best-solution&quot;&gt;Big changes isn’t always the best solution&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/control_centre.gif&quot; alt=&quot;patch&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
@@ -235,4 +235,4 @@ image: http://example.com/some-image.png
 
 &lt;p&gt;My role in this was paper prototyping, user testing and almost having a melt-down using Adobe After Effects while making the animation.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://medium.com/@TeamCerealKillers/redesigning-the-control-centre-while-losing-control-8bdd0e29894b#.nvn7n774f&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;&lt;a href=&quot;httpss://medium.com/@TeamCerealKillers/redesigning-the-control-centre-while-losing-control-8bdd0e29894b#.nvn7n774f&quot; target=&quot;_blank&quot;&gt;Read the medium post about it here&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
