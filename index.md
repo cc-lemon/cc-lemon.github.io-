@@ -23,4 +23,4 @@ KTH (Technical university), Studies in media technology, Bachelor in HCI, 2008-2
 
 ### Resume
 
-[Resume for download]({{ site.url }}/download/Resume_ChristianCroona.pdf)
+[Resume for download]({{ site.url }}/download/Christian Croona CV.pdf)
