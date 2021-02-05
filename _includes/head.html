@@ -14,9 +14,19 @@
   {% endif %}
   {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
   <!--Analytics -->
-  {% if jekyll.environment == 'production' %}
+  <!-- {% if jekyll.environment == 'production' %}
   {% include analytics.html %}
-  {% endif %}
+  {% endif %} -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90730277-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90730277-1');
+</script>
+
   <script src="https://www.googleoptimize.com/optimize.js?id=GTM-M257QNZ"></script>
   <!-- Twitter Cards -->
   {% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'https://' or image contains 'httpss://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
