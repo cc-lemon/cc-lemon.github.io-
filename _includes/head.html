@@ -17,6 +17,7 @@
   {% if jekyll.environment == 'production' %}
   {% include analytics.html %}
   {% endif %}
+  <script src="https://www.googleoptimize.com/optimize.js?id=GTM-M257QNZ"></script>
   <!-- Twitter Cards -->
   {% if page.image %}{% capture image %}{{ page.image }}{% endcapture %}{% unless image contains 'https://' or image contains 'httpss://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <meta name="twitter:card" content="summary_large_image">
